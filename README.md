@@ -15,6 +15,7 @@
 * The user should enter `-9999` to signal the end of the series.
 * Output the number of integers entered, the least and greatest integers entered, and the average of all integers entered in the series.
    - The average should be formatted to two decimal places.
+   - If the user immediately ends the series, an error message should be printed.
 
 #### Example 1
 ```
