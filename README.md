@@ -36,7 +36,7 @@ Enter an integer: -9999
 Numbers Entered: 1
 Least: 1
 Greatest: 1
-Average: 1
+Average: 1.00
 ```
 
 #### Example 3
